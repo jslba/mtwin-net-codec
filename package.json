@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/jslba/mtwin-net-codec",
 	"devDependencies": {
-		"jest": "^29.3.1"
+		"jest": "^29.4.3"
 	}
 }

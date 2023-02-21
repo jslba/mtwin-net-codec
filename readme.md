@@ -1,4 +1,4 @@
-# [Codec][codec] implement of [mt.net.Codec][mtnetcodec]
+# [Codec][index] implement of [mt.net.Codec][mtnetcodec]
 
 ![npm](https://img.shields.io/npm/v/mtwin-net-codec?color=blue&style=flat)
 ![tests](https://img.shields.io/static/v1?label=tests&message=2%20passed&color=brightgreen&style=flat)
@@ -31,6 +31,6 @@ private key: Array
 public run(text: String): String
 ```
 
-[codec]: /source/index.js
+[index]: /source/index.js
 [mtnetcodec]: https://github.com/Angelisium/TwinoidGames/blob/main/bytecodes/carapass/client.flm#L5984:L6207
 [unittests]: /test/rand.test.js
